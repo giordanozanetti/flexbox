@@ -52,7 +52,6 @@ header {
 header img {
     height: 50px;
 }
-/* 
 .search {
     background-color: var(--cinza);
     flex: 1;
@@ -61,7 +60,7 @@ header img {
     border: none;
     outline: none;
     color: var(--cinzaclaro);
-} */
+}
 #buscar{
     display: flex;
     flex-direction: row-reverse;
